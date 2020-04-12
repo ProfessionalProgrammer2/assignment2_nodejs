@@ -1,0 +1,67 @@
+{
+  "projects": [
+    {
+      "projectname": "Java",
+      "number": "789579387",
+      "id": 50
+    },
+    {
+      "projectname": "C#",
+      "number": "22331334",
+      "id": 51
+    },
+    {
+      "projectname": "PHP",
+      "number": "5498778699",
+      "id": 52
+    }
+  ],
+  "employee": [
+    {
+      "name": "bill",
+      "number": "8439850730",
+      "id": 1
+    },
+    {
+      "name": "ted",
+      "number": "22222222",
+      "id": 2
+    },
+    {
+      "name": "ron",
+      "number": "333333",
+      "id": 3
+    },
+    {
+      "name": "whoa",
+      "number": "111",
+      "id": 13
+    }
+  ],
+"employeedetails": [
+    {
+      "name": "bill",
+      "number": "11111111",
+      "employee_id": 1,
+      "projectname": "telescope",
+      "number": "11111111",
+      "project_id": 50
+    },
+    {
+      "name": "ted",
+      "number": "22222222",
+      "employee_id": 2,
+      "projectname": "banana",
+      "number": "11114111",
+      "project_id": 52
+    },
+    {
+      "name": "ron",
+      "number": "333333",
+      "id": 3,
+      "projectname": "tv",
+      "number": "555555111",
+      "project_id": 53
+    }  
+  ]
+}
